@@ -1,11 +1,13 @@
-# Mini_Project_1
-Creating Hangman game for first Ironhack Mini Project (week 1)
-
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+
+# Mini_Project_1: Hangman
+Creating Hangman game for first Ironhack Mini Project (week 1)
+
+# Student Name:
 Philène Moquette
 
+# Class:
 *Data Analytics, Amsterdam, 20/2020*
 
 ## Content
@@ -16,13 +18,29 @@ Philène Moquette
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+I'm building a game of Hangman in Python. It lends itself well as a first project for a beginner, as there are many options for simplification (or making it more complex down the line). 
 
 ## Rules
-Briefly describe the rules of the game.
+The player has 10 turns to guess the letters of a secret word, which is chosen at random by the computer at the beginning of every game. The number of turns was chosen based on the amount of lines needed to draw the traditional hangman in the game. 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Step 1: 
+Decided on the Hangman game out of a list of 8 possibilities. 
+
+Step 2: 
+Created a Trello board (pictured below).
+
+Step 3:
+Created a project repository (this one) to keep track of the project. 
+
+Step 4: 
+Researched the game. 
+
+Step 4:
+Choose which elements I want to include in my version, such as: do I want to draw the hangman? Do I want to give the player the option to guess the whole word if they so wish? All this depends on time constraint, so I will get back to this step later once I have the basics down. 
+
+Step 5:
+Pseudo-code
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?

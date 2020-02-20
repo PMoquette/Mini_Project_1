@@ -42,6 +42,12 @@ Choose which elements I want to include in my version, such as: do I want to dra
 Step 5:
 Pseudo-code
 
+Step 6:
+Find examples of game
+
+Step 7:
+Learn from example, tweak code to fit needs, research further as needed. 
+
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
 

@@ -53,8 +53,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Source](https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman)
 
 [Source](https://www.youtube.com/watch?time_continue=44&v=5aAkDVXxNhk&feature=emb_logo)
-
+[Words](https://www.hangmanwords.com/words)
 [Repository](https://github.com/PMoquette/Mini_Project_1/)
-
 [Slides](https://slides.com/)
   

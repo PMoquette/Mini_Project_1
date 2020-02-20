@@ -4,9 +4,9 @@ Creating Hangman game for first Ironhack Mini Project (week 1)
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+Philène Moquette
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Amsterdam, 20/2020*
 
 ## Content
 - [Project Description](#project-description)

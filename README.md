@@ -37,10 +37,10 @@ Step 1:
 Decided on the Hangman game out of a list of 8 possibilities. 
 
 Step 2: 
-Created a Trello board (pictured below).
+Created a Trello board (link below).
 
 Step 3:
-Created a project repository (this one) to keep track of the project. 
+Created a project repository to keep track of the project. Added a README file.  
 
 Step 4: 
 Researched the game and found many different examples with varying winning-conditions and other elements. 
@@ -60,6 +60,12 @@ Mix-and-match code from examples I found
 
 Step 7:
 Learn from examples, tweak code to fit personal wishes, and research further to implement those wishes. 
+
+Step 8:
+Test game. Make, break, make, break. 
+
+Step 9:
+Present!
 
 ## Organization
 I planned my work using a Trello board. 

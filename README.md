@@ -49,17 +49,23 @@ Step 7:
 Learn from example, tweak code to fit needs, research further as needed. 
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I planned my work using a Trello board
 
-What does your repository look like? Explain your folder and file structure.
+The Repository contains:
+A Jupyter Notebook file of the Game program
+README file
+.gitignore
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Source](https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman)
+[Source](https://www.youtube.com/watch?time_continue=44&v=5aAkDVXxNhk&feature=emb_logo)<br/> 
+[Source](https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman)<br/> 
+[Source](https://stackoverflow.com/questions/34089537/python-how-to-check-if-user-input-is-a-string)<br/> 
+[Source](https://stackoverflow.com/questions/4288973/whats-the-difference-between-s-and-d-in-python-string-formatting)<br/> 
+[Words](https://www.hangmanwords.com/words)<br/> 
+[Repository](https://github.com/PMoquette/Mini_Project_1/)<br/> 
 
-[Source](https://www.youtube.com/watch?time_continue=44&v=5aAkDVXxNhk&feature=emb_logo)
-[Words](https://www.hangmanwords.com/words)
-[Repository](https://github.com/PMoquette/Mini_Project_1/)
-[Slides](https://slides.com/)
+## Other Resources
+
+
   

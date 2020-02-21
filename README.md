@@ -1,15 +1,15 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 
-# Mini_Project_1: Hangman
+# Mini Project #1: Hangman
 Creating Hangman game for first Ironhack Mini Project (week 1)
 
 # Student Name:
 Philène Moquette
 
 # Class:
-Ironhack Amsterdam,
-Data Analytics,
+Ironhack Amsterdam,<br/>
+Data Analytics,<br/>
 Feb 2020
 
 ## Content
@@ -43,28 +43,33 @@ Step 3:
 Created a project repository (this one) to keep track of the project. 
 
 Step 4: 
-Researched the game. 
+Researched the game and found many different examples with varying winning-conditions and other elements. 
 
 Step 4:
-Chose which elements I would like to include in my version, such as: do I want to draw the hangman? (No). Do I want to give the player the option to guess the whole word if they so wish? (Yes). What are the consequences if they guess the wrong word? (Game Over). Do I want to add a turn counter? (Yes!)<br/>
-All this depends on time constraint, so I will get back to this step later once I have the basics down. 
+Chose which elements I would like to include in my version, such as:<br/> 
+Do I want to draw the hangman? (No.)<br/> 
+Do I want to give the player the option to guess the whole word if they so wish? (Yes.)<br/> 
+What are the consequences if they guess the wrong word? (Game Over.)<br/> 
+Do I want to add a turn counter? (Yes.)<br/>
 
 Step 5:
-Pseudo-code
+Pseudo-code/brainstorming
 
 Step 6:
-Find examples of game
+Mix-and-match code from examples I found
 
 Step 7:
-Learn from example, tweak code to fit needs, research further as needed. 
+Learn from examples, tweak code to fit personal wishes, and research further to implement those wishes. 
 
 ## Organization
-I planned my work using a Trello board
+I planned my work using a Trello board. 
 
-The Repository contains:
-A Jupyter Notebook file of the Game program
-README file
-.gitignore
+The Repository contains:<br/>
+A Jupyter Notebook of the Game program<br/>
+.gitignore<br/>
+README file with:<br/>
+  Screenshots of Trello board<br/>
+  Screenshots of Presentation<br/>
 
 ## Links
 

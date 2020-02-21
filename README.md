@@ -73,6 +73,7 @@ README file with:<br/>
 
 ## Links
 
+[Trello](https://trello.com/b/alnsay8Z/mini-project-week-1)<br/>
 [Source](https://www.youtube.com/watch?time_continue=44&v=5aAkDVXxNhk&feature=emb_logo)<br/> 
 [Source](https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman)<br/> 
 [Source](https://stackoverflow.com/questions/34089537/python-how-to-check-if-user-input-is-a-string)<br/> 
@@ -80,7 +81,6 @@ README file with:<br/>
 [Words](https://www.hangmanwords.com/words)<br/> 
 [Repository](https://github.com/PMoquette/Mini_Project_1/)<br/> 
 
-## Other Resources
 
 
   
